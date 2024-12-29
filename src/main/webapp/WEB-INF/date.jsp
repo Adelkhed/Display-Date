@@ -12,6 +12,6 @@
 </head>
 <body>
 	<h1>Current Date</h1>
-	<p> The current date is : <c:out value="${currentDate }"/></p>
+	<p>  <c:out value="${currentDate }"/></p>
 </body>
 </html>

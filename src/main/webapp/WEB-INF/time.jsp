@@ -12,6 +12,6 @@
 </head>
 <body>
 	<h1>Current Time</h1>
-	<p>The current Time is : <c:out value="${currentTime }"/></p>
+	<p><c:out value="${currentTime }"/></p>
 </body>
 </html>
